@@ -1,5 +1,4 @@
-### Hi there 👋 ![visitors](https://visitor-baadge.glitch.me/badge?${your.username}.${your.repo.id}=page_id)
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sebastianbreguel&count_private=true&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+### Hi there 👋 
 
 
 <!--
