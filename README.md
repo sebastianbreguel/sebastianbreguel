@@ -23,11 +23,12 @@ Here are some ideas to get you started:
 # Hey there, I'm Sebastian Breguel 👋 
 <h4> I'm a developer and student </h4>
 
-- 🚀 I'm currently working on [miaula](https://www.miaula.cl/index.html)
 - 🔭 I've worked on the assistantships of 
-    - Software Engineering 👨‍💻 
     - Calculus I and II 💻
+    - Data structures and algorithms🧠🖥️
+    - Introduction to the Major in Computer Science 🔥💻
     - Optimization Methods 🤓🖥
+    - Software Engineering [![Ruby](https://cdn.emojidex.com/emoji/mdpi/Ruby.png "Ruby") ](https://www.ruby-lang.org) 👨‍💻 
 - 🌱 I’m currently learning about Angular and Docker. 
 - 😄 I’m looking to collaborate on projects
 
