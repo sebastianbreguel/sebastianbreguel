@@ -24,10 +24,11 @@ Here are some ideas to get you started:
 <h4> I'm a developer and student </h4>
 
 - 🔭 I've worked on the assistantships of 
-    - Calculus I and II 💻
+    - Calculus I 📝📚
+    - Multivariable Calculus 🤓📚
     - Data structures and algorithms🧠🖥️
     - Introduction to the Major in Computer Science 🔥💻
-    - Optimization Methods 🤓🖥
+    - Optimization Methods 📈🖥
     - Software Engineering [![Ruby](https://cdn.emojidex.com/emoji/mdpi/Ruby.png "Ruby") ](https://www.ruby-lang.org) 👨‍💻 
 - 🌱 I’m currently learning about Angular and Docker. 
 - 😄 I’m looking to collaborate on projects
