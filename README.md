@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 - 🔭 I've worked on the assistantships of 
     - Calculus I 📝📚
     - Multivariable Calculus 🤓📚
-    - Data structures and algorithms🧠🖥️
+    - Introduction to Programming 💻
     - Introduction to the Major in Computer Science 🔥💻
+    - Data structures and algorithms🧠🖥️
     - Optimization Methods 📈🖥
     - Software Engineering [![Ruby](https://cdn.emojidex.com/emoji/mdpi/Ruby.png "Ruby") ](https://www.ruby-lang.org) 👨‍💻 
 - 🌱 I’m currently learning about Angular and Docker. 
