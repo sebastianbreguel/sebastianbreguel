@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     - Data structures and algorithms🧠🖥️
     - Optimization Methods 📈🖥
     - Software Engineering [![Ruby](https://cdn.emojidex.com/emoji/mdpi/Ruby.png "Ruby") ](https://www.ruby-lang.org) 👨‍💻 
-- 🌱 I’m currently learning about React Native and Embeddings with some Differential Geometry applied. 
+- 🌱 I’m currently learning about React Native and Embeddings. 
 - 😄 I’m looking to collaborate on projects
 
 
