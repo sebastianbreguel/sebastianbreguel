@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     - Calculus I 📝📚
     - Multivariable Calculus 🤓📚
     - Introduction to Programming 💻
-    - Introduction to the Major in Computer Science 🔥💻
+    - Introduction to Computer Science 🔥💻
     - Data structures and algorithms🧠🖥️
     - Optimization Methods 📈🖥
     - Software Engineering [![Ruby](https://cdn.emojidex.com/emoji/mdpi/Ruby.png "Ruby") ](https://www.ruby-lang.org) 👨‍💻 
