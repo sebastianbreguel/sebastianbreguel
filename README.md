@@ -31,8 +31,7 @@ Here are some ideas to get you started:
     - Data structures and algorithms🧠🖥️
     - Optimization Methods 📈🖥
     - Software Engineering [![Ruby](https://cdn.emojidex.com/emoji/mdpi/Ruby.png "Ruby") ](https://www.ruby-lang.org) 👨‍💻 
-- 🌱 I’m currently learning about React Native and Hyperbolic spaces applied to Deep learning. 
-- 😄 I’m looking to collaborate on projects
+- 🌱 I’m currently an exchange student at EPFL being part of the Computer Science Master program
 
 
 
