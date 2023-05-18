@@ -13,13 +13,6 @@
 
 
 
-### Languages:
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Node" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-
 
 <br />
 
@@ -50,7 +43,9 @@
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40"/>
 </a><a href="https://koajs.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/koajs/koajs-icon.svg" alt="Koa" width="40" height="40"/>
-</a>
+</a><a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
+
 
     
 
