@@ -41,8 +41,6 @@
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="40" height="40"/>
-</a><a href="https://koajs.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/koajs/koajs-icon.svg" alt="Koa" width="40" height="40"/>
 </a><a href="https://nodejs.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
 
