@@ -49,7 +49,10 @@
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="40" height="40"/>
 </a><a href="https://numpy.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40"/>
+</a><a href="https://koajs.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/koajs/koajs-icon.svg" alt="Koa" width="40" height="40"/>
 </a>
+
     
 
 
