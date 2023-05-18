@@ -2,7 +2,7 @@
 <h4> I'm a developer and student </h4>
 
 - 🔭 I've worked on the assistantships of 
-    - Calculus I 📝📚
+    - Differential and Integral Calculus 📝📚
     - Multivariable Calculus 🤓📚
     - Introduction to Programming 💻
     - Introduction to Computer Science 🔥💻
