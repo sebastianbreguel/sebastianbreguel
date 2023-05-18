@@ -52,7 +52,10 @@
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="40" height="40"/>
 </a><a href="https://numpy.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40"/>
+</a><a href="https://rubyonrails.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="Ruby on Rails" width="40" height="40"/>
 </a>
+
 
 
 #### Tools
