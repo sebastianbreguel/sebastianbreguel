@@ -12,13 +12,6 @@
 - 🌱 I’m currently an exchange student at EPFL being part of the Computer Science Master program
 
 
-<br />
-<div align="center" >
-  <a href="#">
-  <img src="https://komarev.com/ghpvc/?username=sebastianbreguel&style=flat&color=gray" alt="" />
-</div>
-<br />
-
 
 
 <br />
@@ -65,12 +58,13 @@
 
 
 
+
 ---
 
 <div align="center">
   <a href="https://github.com/sebastianbreguel">
   <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=sebastianbreguel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianbreguel&layout=compact&langs_count=7&theme=dark"/>
-
+  <img src="https://komarev.com/ghpvc/?username=sebastianbreguel&style=flat&color=gray" alt="" />
 </div>
 ---
