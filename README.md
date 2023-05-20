@@ -12,6 +12,13 @@
 - 🌱 I’m currently an exchange student at EPFL being part of the Computer Science Master program
 
 
+<br />
+<div align="center" >
+  <a href="#">
+  <img src="https://komarev.com/ghpvc/?username=sebastianbreguel&style=flat&color=gray" alt="" />
+</div>
+<br />
+
 
 
 <br />
