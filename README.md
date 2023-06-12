@@ -10,6 +10,7 @@
     - Optimization Methods 📈🖥
     - Software Engineering [![Ruby](https://cdn.emojidex.com/emoji/mdpi/Ruby.png "Ruby") ](https://www.ruby-lang.org) 👨‍💻 
 - 🌱 I’m currently an exchange student at EPFL being part of the Computer Science Master program
+- I have experience with LLMs, Vision transformers and Reinforcement Learning
 
 
 
