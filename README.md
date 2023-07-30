@@ -1,5 +1,5 @@
 # Hey there, I'm Sebastian Breguel 👋 
-<h4> I'm Computer Science student, a Machine learning and Mathematics enthusiastic! </h4>
+<h4> I'm Computer Science student, a Machine learning, Math and Physicology enthusiastic! </h4>
 
 - 🔭 I've worked on the assistantships of 
     - Differential and Integral Calculus 📝📚
