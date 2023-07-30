@@ -47,6 +47,7 @@
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="40" height="40"/>
 </a><a href="https://nodejs.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
+  <img src="imgs/reactnative" alt="reactnative.js" width="40" height="40"/>
 
     
 
