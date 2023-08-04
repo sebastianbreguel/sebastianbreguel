@@ -10,8 +10,7 @@
   - Data structures and algorithms🧠🖥️
   - Optimization Methods 📈🖥
   - Software Engineering [![Ruby](https://cdn.emojidex.com/emoji/mdpi/Ruby.png "Ruby") ](https://www.ruby-lang.org) 👨‍💻
-- 🌱 I’m currently an exchange student at EPFL being part of the Computer Science Master program
-
+- 🌱 I’m currently Visiting the Computer Science Master from EPFL! 
 <br />
 
 #### Skills
