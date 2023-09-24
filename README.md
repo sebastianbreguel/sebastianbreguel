@@ -50,6 +50,9 @@
 <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter Notebook" width="40" height="40"/>
 </a>
 
+<p align="center">
+    <img src="https://profile-counter.glitch.me/sebastianbreguel/count.svg" />
+</p>
 ---
 
 <div align="center">
