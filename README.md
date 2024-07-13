@@ -10,7 +10,7 @@
   - Data structures and algorithms🧠🖥️
   - Optimization Methods 📈🖥
   - Software Engineering [![Ruby](https://cdn.emojidex.com/emoji/mdpi/Ruby.png "Ruby") ](https://www.ruby-lang.org) 👨‍💻
-- 🌱 I’m currently Visiting the Computer Science Master from EPFL! 
+- 🌱 I’m currently doing my master Degre at PUC Chile and working as a Data Science Intern at Lilo! 
 <br />
 
 #### Skills
