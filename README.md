@@ -2,14 +2,7 @@
 
 <h4> I'm Computer Science student, a Machine learning, Math and Physicology enthusiastic! </h4>
 
-- 🔭 I've worked on the assistantships of
-  - Differential and Integral Calculus 📝📚
-  - Multivariable Calculus 🤓📚
-  - Introduction to Programming 💻
-  - Introduction to Computer Science 🔥💻
-  - Data structures and algorithms🧠🖥️
-  - Optimization Methods 📈🖥
-  - Software Engineering [![Ruby](https://cdn.emojidex.com/emoji/mdpi/Ruby.png "Ruby") ](https://www.ruby-lang.org) 👨‍💻
+- 🔭 I've worked on the assistantships on different courses
 - 🌱 I’m currently doing my master Degre at PUC Chile and working as a Data Science Intern at Lilo! 
 <br />
 
