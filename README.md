@@ -4,4 +4,3 @@
 
 - 🔭 I've worked on the assistantships on different courses
 - 🌱 I’m currently doing my master Degre at PUC Chile
-<br />
