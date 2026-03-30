@@ -1,6 +1,17 @@
-# Hey there, I'm Sebastian Breguel 👋
+# Sebastian Breguel
 
-<h4> I'm Computer Science student, a Machine learning, Math and Physicology enthusiastic! </h4>
+**AI Researcher @ [Vambe AI](https://vambe.ai)** · MSc Computer Science, PUC Chile
+
+Building things at the intersection of ML, math, and curiosity.
+
+<h4> ML, Math and Psychology enthusiast </h4>
 
 - 🔭 I've worked on the assistantships on different courses
-- 🌱 I’m currently doing my master Degre at PUC Chile
+- 🌱 MSc Computer Science @ PUC Chile
+- 🧠 Currently researching AI @ Vambe AI
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianbreguel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
