@@ -17,10 +17,13 @@ Building things at the intersection of ML, math, and curiosity.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebastianbreguel&theme=tokyo-night&hide_border=true&area=true&custom_title=Commit%20History" alt="Commit History" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebastianbreguel&theme=tokyo-night&hide_border=true&area=true&days=90&custom_title=Commit%20History%20·%20Last%2090%20Days" alt="Commit History" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebastianbreguel&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianbreguel&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sebastianbreguel&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&card_width=420" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianbreguel&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=420" alt="Top Languages" />
 </p>
