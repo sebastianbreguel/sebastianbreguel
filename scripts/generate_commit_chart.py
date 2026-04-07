@@ -6,7 +6,7 @@
 
 from __future__ import annotations
 
-from datetime import datetime, timedelta
+from datetime import datetime
 from pathlib import Path
 
 import matplotlib.dates as mdates
@@ -14,7 +14,6 @@ import matplotlib.pyplot as plt
 import requests
 
 USER = "sebastianbreguel"
-DAYS = 120
 OUT = Path(__file__).parent.parent / "imgs" / "commit-history.svg"
 
 
@@ -30,9 +29,11 @@ def main() -> None:
     contribs = fetch_contributions()
     contribs.sort(key=lambda x: x[0])
 
-    # Keep only days up to today, then take last N
+    # Year to date: from Jan 1 of current year up to today
     today = datetime.now()
-    contribs = [(d, c) for d, c in contribs if d <= today][-DAYS:]
+    year_start = datetime(today.year, 1, 1)
+    contribs = [(d, c) for d, c in contribs if year_start <= d <= today]
+    year = today.year
 
     dates = [d for d, _ in contribs]
     counts = [c for _, c in contribs]
@@ -62,7 +63,7 @@ def main() -> None:
 
     # Axes styling
     ax.set_title(
-        f"Commit Activity · Last {DAYS} Days",
+        f"Commit Activity · {year} YTD",
         fontsize=16,
         color=fg,
         pad=18,
