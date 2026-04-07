@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 import requests
 
 USER = "sebastianbreguel"
-OUT = Path(__file__).parent.parent / "imgs" / "commit-history.svg"
+OUT = Path(__file__).parent.parent / "imgs" / "commits-2026.svg"
 
 
 def fetch_contributions() -> list[tuple[datetime, int]]:

@@ -17,5 +17,5 @@ Building things at the intersection of ML, math, and curiosity.
 </p>
 
 <p align="center">
-  <img src="./imgs/commit-history.svg" alt="Commit History" />
+  <img src="./imgs/commits-2026.svg" alt="Commit History" />
 </p>
