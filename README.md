@@ -17,5 +17,5 @@ Building things at the intersection of ML, math, and curiosity.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebastianbreguel&theme=tokyo-night&hide_border=true&area=true&days=120&custom_title=Commit%20History%20·%20Last%20120%20Days" alt="Commit History" />
+  <img src="./imgs/commit-history.svg" alt="Commit History" />
 </p>
