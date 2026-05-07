@@ -2,7 +2,6 @@
 
 **AI Researcher @ [Vambe AI](https://vambe.ai)** · MSc Computer Science, PUC Chile
 
-Building things at the intersection of ML, math, and curiosity.
 
 <h4> ML, Math and Psychology enthusiast </h4>
 
