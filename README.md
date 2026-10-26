@@ -1,6 +1,6 @@
 # Sebastian Breguel
 
-**AI engineer @ [Vambe AI](https://vambe.ai)** · MSc Computer Science, PUC Chile
+**Working at @ [Vambe AI](https://vambe.ai)** · MSc Computer Science, PUC Chile
 
 
 <h4> ML, Math and Psychology enthusiast </h4>
